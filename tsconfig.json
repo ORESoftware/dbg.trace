@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "strict": true,
+    "allowJs": false,
+    "pretty": true,
+    "resolveJsonModule": true,
+    "sourceMap": false,
+    "skipLibCheck": true,
+    "rootDir": "src",
+    "declaration": true,
+    "baseUrl": ".",
+    "target": "es2022",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "allowUnreachableCode": true,
+    "lib": [
+      "es2021",
+      "es2022",
+      "es2023"
+    ]
+  },
+  "compileOnSave": false,
+  "include": [
+    "src"
+  ]
+}
