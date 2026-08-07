@@ -17,3 +17,7 @@ test/dist/*
 !dist/.gitkeep
 !dist/readme.md
 !test/dist/readme.md
+tmp
+temp
+tmp/worktrees
+temp/worktrees
